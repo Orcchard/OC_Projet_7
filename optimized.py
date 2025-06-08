@@ -2,7 +2,7 @@
 La librairie Panda, permet de créer un data frame.
 Importation du fichier  dataset1.csv et dataset2 qui seront lus et transformés en data frame
 à partir de la fonction read_dataset1.csv.
-1000 Actions contenues dans les fichiers dataset1.csv & dataset2.csv , entetes des fichiers .csv
+1000 Actions contenues  dans les fichiers dataset1.csv & dataset2.csv , entetes des fichiers .csv
 Name: Nom de l'action
 Price:  Prix de l'action
 Profit en %
